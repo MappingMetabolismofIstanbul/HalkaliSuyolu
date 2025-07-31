@@ -81,7 +81,7 @@ var config = {
             alignment: 'centered',
             hidden: true,
             title: '',
-            image: 'https://i.ibb.co/NgrkQv3x/MEF-AAP-027-BAP-2025-07-15-13-19-31.png',
+            image: '',
             description: '',
             location: {
                 center: [28.843, 41.062],
@@ -135,7 +135,7 @@ var config = {
         },
         {
             id: 'sixth-chapter',
-            alignment: 'centered',
+            alignment: 'left',
             hidden: false,
             title: '',
             image: 'https://i.ibb.co/5XPvgzyx/MEF-AAP-027-BAP-2025-07-17-13-27-42.png',
@@ -154,7 +154,7 @@ var config = {
              },
         {
             id: 'seventh-chapter',
-            alignment: 'right',
+            alignment: 'centered',
             hidden: false,
             title: '',
             image: 'https://i.ibb.co/BH8F1QRh/MEF-AAP-027-BAP-2025-07-31-09-18-00.png',
