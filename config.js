@@ -157,7 +157,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/0VYKGyq8/MEF-AAP-027-BAP-2025-07-15-13-18-47.png',
+            image: 'https://i.ibb.co/BH8F1QRh/MEF-AAP-027-BAP-2025-07-31-09-18-00.png',
             description: '',
             location: {
                 center: [28.932,41.030],
